@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "id": 3,
+      "message": "fixed 002 drive fixed",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2023-12-28T06:25:18.663Z"
+    },
+    {
+      "id": 4,
+      "message": "Ali system need to changed 003",
+      "attention": true,
+      "tech": "Sara Willson",
+      "date": "2023-12-27T05:26:42.596Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Ijaz ",
+      "lastName": "Ahmad",
+      "id": 4
+    }
+  ]
+}
